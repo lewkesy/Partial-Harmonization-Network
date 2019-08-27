@@ -26,8 +26,7 @@ Owing to the limitation of memory and GPU, I cannot reconstruct a large image. P
  python paint-train.py
  
 # Results
-  These results can be checked in "input/painting". Considering that the results are generated through first step, the results will not be satisfying enough. Also the size of results will be small owing to the limitation of memory and GPU.
-  
-  
-  ![bg1](input/painting/balloon1/background.jpg)![2](input/painting/balloon1/input.jpg) ![3](input/painting/balloon1/result.jpg)<br>
-  ![bg2](input/painting/campus/background.jpg)![4](input/painting/campus/input.jpg) ![5](input/painting/campus/result.jpg)
+  These results can be checked in "input/painting". The left image is the original background, the mid one is the copy-and-paste input, and the right one is the reconstructed image. Considering that the results are generated through first step, the results will not be satisfying enough. Also the size of results will be small owing to the limitation of memory and GPU. You can modify the size of output in code and I will try to implement the second part later.<br>
+ 
+  ![bg1](input/painting/balloon1/background.jpg)  ![2](input/painting/balloon1/input.jpg) ![3](input/painting/balloon1/result.jpg)<br>
+  ![bg2](input/painting/campus/background.jpg)  ![4](input/painting/campus/input.jpg) ![5](input/painting/campus/result.jpg)
