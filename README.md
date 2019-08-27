@@ -29,5 +29,5 @@ Owing to the limitation of memory and GPU, I cannot reconstruct a large image. P
   These results can be checked in "input/painting". Considering that the results are generated through first step, the results will not be satisfying enough. Also the size of results will be small owing to the limitation of memory and GPU.
   
   
-  ![2](input/painting/balloon1/input.jpg) ![3](input/painting/balloon1/result.jpg)
+  ![2](input/painting/balloon1/input.jpg) ![3](input/painting/balloon1/result.jpg)<br>
   ![4](input/painting/campus/input.jpg) ![5](input/painting/campus/result.jpg)
