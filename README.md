@@ -1,6 +1,6 @@
 # Partial-Harmonization-Network
 
-This project is an implementation practice of paper [*Deep Painterly Harmmonization*](https://arxiv.org/pdf/1804.03189.pdf). This network allows you to copy and paste some part of image element from other image to your target image and smooth the artifacts, such as:
+This project is an implementation practice of paper [*Deep Painterly Harmonization*](https://arxiv.org/pdf/1804.03189.pdf). This network allows you to copy and paste some part of image element from other image to your target image and smooth the artifacts, such as:
 
 ![0](input/painting/shield/input.jpg) ![1](input/painting/shield/result_at_iteration_149.png)
 
